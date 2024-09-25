@@ -1,0 +1,6 @@
+title: GITHUB WEBSITE YEAAAAH            # The top-level website title
+description: a website that is fantastic and an experiment for class      # A tagline that usually appears in your site head
+
+remote_theme: pages-themes/cayman@v0.2.0       # Establishes a theme
+plugins: 
+- jekyll-remote-theme
